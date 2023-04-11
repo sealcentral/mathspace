@@ -28,3 +28,7 @@ p {
     transform: translateX(30px);
   left: 20px;
 }
+
+.First::marker {
+    cursor: pointer;
+}
