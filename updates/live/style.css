@@ -29,6 +29,9 @@ p {
   left: 20px;
 }
 
-.First::marker {
+summary {
     cursor: pointer;
+}
+summary b {
+    cursor: text;
 }
