@@ -11,10 +11,6 @@ strong {color: #ddd;}
 p {color: #ddd;}
 details {color: #ddd;}
 
-First {
-  border: solid;
-  border-color: #ddd;
-}
 #Live {
   position: absolute;
   transform: translateX(30px);
